@@ -1,5 +1,0 @@
-import pandas as pd
-import numpy as np
-
-
-Olympic_data=pd.loa
